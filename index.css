@@ -3,7 +3,7 @@ body {
 }
 
 .main {
-    background-color: rgb(236, 236, 236);
+    background-color: rgb(237, 237, 237);
     height: 550px;
     width: 70%;
     display: block;
@@ -22,4 +22,21 @@ body {
 
 .direita h1 {
     margin-top: 0;
+}
+
+.direita button {
+    width: 20%;
+}
+
+.texto {
+    width: 80%;
+    display: block;
+    float: left;
+}
+
+
+
+.chat {
+    height: 500px;
+    overflow-y: scroll;
 }
